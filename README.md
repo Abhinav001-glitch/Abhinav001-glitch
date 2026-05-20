@@ -1,12 +1,8 @@
-## Hi there 👋
-
 # Hi there, I'm Abhinav Kumar 👋
 
-## 🚀 About Me
+# 🚀 About Me
 I'm **Abhinav Kumar**, a **3rd-year student** passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
-
 I enjoy building projects involving **AI/ML, backend systems, APIs, databases, and data analysis**, while continuously learning new technologies and solving real-world problems.
-
 - 🎓 3rd Year Student  
 - 🤖 Interested in AI, Machine Learning & Data Science  
 - 🛠️ Exploring Backend Development & APIs  
@@ -15,9 +11,7 @@ I enjoy building projects involving **AI/ML, backend systems, APIs, databases, a
 - 💡 Open to internships, collaborations, and exciting opportunities  
 
 ---
-
 ## 🛠️ Tech Stack
-
 ### Programming & Databases
 Python
 SQL
