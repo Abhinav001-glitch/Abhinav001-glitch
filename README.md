@@ -19,21 +19,21 @@ I enjoy building projects involving **AI/ML, backend systems, APIs, databases, a
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Python
+SQL
 
 ### Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+TensorFlow
+PyTorch
 
 ### Backend & Development Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+FastAPI
+Docker
+Jupyter Notebook
 
 ---
 
@@ -54,16 +54,6 @@ I enjoy building projects involving **AI/ML, backend systems, APIs, databases, a
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav001-glitch&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav001-glitch&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav001-glitch&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Interests
 - Artificial Intelligence (AI)  
 - Machine Learning (ML)  
@@ -77,8 +67,8 @@ I enjoy building projects involving **AI/ML, backend systems, APIs, databases, a
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn profile here  
-- 📧 Email: Add your email here  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav-kumar-0b3998310/
+- 📧 Email: abhinav20kumar06@gmail.com  
 - 🌐 Portfolio: Coming Soon 🚀
 
 ---
