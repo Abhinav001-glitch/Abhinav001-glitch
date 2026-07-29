@@ -15,6 +15,8 @@ I enjoy building projects involving **AI/ML, backend systems, APIs, databases, a
 ### Programming & Databases
 Python
 SQL
+Java
+C
 
 ### Data Science & Machine Learning
 NumPy
@@ -28,6 +30,7 @@ PyTorch
 FastAPI
 Docker
 Jupyter Notebook
+Google Colab
 
 ---
 
@@ -65,7 +68,3 @@ Jupyter Notebook
 - 📧 Email: abhinav20kumar06@gmail.com  
 - 🌐 Portfolio: Coming Soon 🚀
 
----
-
-### ✨ Motto
-> *"Keep learning, keep building, and let projects speak louder than words."*
